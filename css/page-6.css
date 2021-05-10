@@ -23,6 +23,9 @@
 }
 .item-6 .word {
     font-size: 20px;
+    width: 640px;
+    text-align: left;
+    margin: 0 auto;
 }
 
 

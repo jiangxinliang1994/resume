@@ -15,8 +15,9 @@
 }
 
 .item-2 .icon-infomation p{
-    font-size: 12px;
+    font-size: 18px;
     text-align: center;
+    font-weight: bold;
 }
 .item-2  .icon-infomation:nth-child(1){
     -webkit-animation: bounceIn 2s ease;
