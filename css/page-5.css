@@ -57,6 +57,7 @@
 }
 .hover-bg img{
     height: 100% !important;
+    width: 100%;
 }
 .hover-bg .hover-text>h4 {
     opacity: 0;

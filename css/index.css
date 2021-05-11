@@ -44,8 +44,10 @@
 .resume .navbar-brand:visited,
 .resume .navbar-brand:hover
 {
-    color: #A7E615;
-    font-size: 18px;
+    /*color: #A7E615;*/
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
 }
 .resume .navbar-right li a,
 .resume .navbar-right li a:visited{
